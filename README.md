@@ -1,16 +1,16 @@
-## Hi there 👋
+• Experienced in working within Agile/Scrum environments while managing tasks, collaborating with teams, and contributing throughout the
+Software Development Lifecycle (SDLC).
 
-<!--
-**sowferyowman/sowferyowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Capable of communicating effectively with cross-functional teams, stakeholders, and clients while maintaining professionalism.
 
-Here are some ideas to get you started:
+• Proficient in debugging, troubleshooting, code review, testing, and quality assurance to ensure reliable and maintainable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Knowledgeable in system design, software architecture, deployment workflows, and DevOps collaboration for modern application development.
+
+• Experienced in data interpretation, dashboard reporting, workflow automation, and generating actionable insights from structured datasets.
+
+• Adaptable to emerging technologies with experience in AI-assisted development, modern development tools, and continuous technical learning.
+
+• Committed to security best practices, attention to detail, confidentiality, and maintaining high professional and ethical standards.
+
+• Strong time management and organizational abilities with experience working in remote collaboration and version control environments.
